@@ -3,8 +3,8 @@
     <section class="hero is-info">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title">Vue Blog</h1>
-          <h2>Vue.js & Firebase Example</h2>
+          <h1 class="title">{{ title }}</h1>
+          <h2>{{ subtitle }}</h2>
         </div>
       </div>
     </section>
@@ -89,6 +89,8 @@ export default {
 
   data() {
     return {
+      title: 'Vue Blog',
+      subtitle: 'Blogging with Vue.js + Firebase Example',
       newPost: {
         title: '',
         text: ''

@@ -1,6 +1,8 @@
 # vue-blog
 
-> A Vue.js project
+> Blogging with Vue.js + Firebase Example
+
+![Screenshot](screenshot.png)
 
 ## Build Setup
 
