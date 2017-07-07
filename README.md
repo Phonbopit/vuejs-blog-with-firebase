@@ -1,6 +1,6 @@
-# vue-blog
+# [Vue Blog](https://phonbopit.github.io/vuejs-blog-with-firebase/)
 
-> Blogging with Vue.js + Firebase Example
+> Blogging with Vue.js + Firebase Example [DEMO](https://phonbopit.github.io/vuejs-blog-with-firebase/)
 
 ![Screenshot](screenshot.png)
 
